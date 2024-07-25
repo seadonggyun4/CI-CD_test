@@ -1,5 +1,5 @@
 # CI/CD_TEST 파이프라인
-
+![cl_cd_test drawio](https://github.com/user-attachments/assets/00eef9d9-2e7f-4956-9027-42f32a5ef940)
 
 ## Git Action 워크플로우
 1. 저장소를 체크아웃 합니다
@@ -18,14 +18,9 @@
 
 <br>
 
-## 주요 개념
-- GitHub Actions과 CI/CD 도구: Git Action, s3, cloudFront
-- S3와 스토리지: _________
-- CloudFront와 CDN: _________
-- 캐시 무효화(Cache Invalidation): _________
-- Repository secret과 환경변수: 
-  - AWS_ACCESS_KEY_ID
-  - AWS_REGION
-  - AWS_SECRET_ACCESS_KEY
-  - CLOUDFRONT_DISTRIBUTION_ID
-  - S3_BUCKET_NAME
+## Repository secret과 환경변수
+- AWS_ACCESS_KEY_ID
+- AWS_REGION
+- AWS_SECRET_ACCESS_KEY
+- CLOUDFRONT_DISTRIBUTION_ID
+- S3_BUCKET_NAME
