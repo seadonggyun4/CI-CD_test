@@ -23,4 +23,9 @@
 - S3와 스토리지: _________
 - CloudFront와 CDN: _________
 - 캐시 무효화(Cache Invalidation): _________
-- Repository secret과 환경변수: _________
+- Repository secret과 환경변수: 
+  - AWS_ACCESS_KEY_ID
+  - AWS_REGION
+  - AWS_SECRET_ACCESS_KEY
+  - CLOUDFRONT_DISTRIBUTION_ID
+  - S3_BUCKET_NAME
