@@ -19,7 +19,7 @@
 <br>
 
 ## 주요 개념
-- GitHub Actions과 CI/CD 도구: _________
+- GitHub Actions과 CI/CD 도구: Git Action, s3, cloudFront
 - S3와 스토리지: _________
 - CloudFront와 CDN: _________
 - 캐시 무효화(Cache Invalidation): _________
