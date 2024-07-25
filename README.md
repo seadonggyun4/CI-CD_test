@@ -1,5 +1,6 @@
 # CI/CD_TEST 파이프라인
-![cl_cd_test drawio](https://github.com/user-attachments/assets/00eef9d9-2e7f-4956-9027-42f32a5ef940)
+<img width="822" alt="스크린샷 2024-07-26 오전 8 36 09" src="https://github.com/user-attachments/assets/fd4d66de-11e2-40c2-87ef-af2fa061abf2">
+
 
 ## Git Action 워크플로우
 ### Checkout repository
